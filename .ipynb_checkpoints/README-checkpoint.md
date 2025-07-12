@@ -29,12 +29,10 @@ Following techniques are used in the analysis:
 3. Use Causal Inference Techniques like Propensity Score Matching (PSM) to compare satisfaction scores of those that used the features to comparable customers who didn't use the feature 
 
 #### Results
-1. Logistic regression proved to be the best model based on AUC and Accuracy Scores
-2. Past product engagement with key features were most influencial attributes indicative of future adoption of new features
-3. Adoption of new feature in question didn't appear to drive higher satisfaction amongst customers that adopted the feature 
+What did your research find?
 
 #### Next steps
-Prepare a non-techical report for business audience 
+What suggestions do you have for next steps?
 
 #### Outline of project
 
@@ -42,5 +40,3 @@ Prepare a non-techical report for business audience
 
 
 ##### Contact and Further Information
-Reach out to shruti0209@gmail.com for further questions and suggestions with respect to the analysis 
-
