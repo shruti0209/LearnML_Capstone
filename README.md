@@ -41,11 +41,11 @@ Following techniques are used in the analysis:
 **Business Results**
 1. Using the lookalike analysis we were able to identify top 20% (3.8K) non-adopting customers who have high propensity to adopt the new feature
 2. The analysis indicates that the propensity to adopt new features is highly correlated to engagement with existing features. Higher the engagement with existing features, higher is the likelyhood of customers adopting new features. The factors that influenced likelyhood of adopting the new features are:
-    a. Higher exports per week 
-    b. Higher collaboration tool usage 
-    c. Higher integration API calls 
-    d. Higher reporting tool usage 
-    e. Higher login frequency per week, 
+    1. Higher exports per week
+    2. Higher collaboration tool usage
+    3. Higher integration API calls
+    4. Higher reporting tool usage
+    5. Higher login frequency per week, 
 3. The usage of the new feature hasn't driven higher customer satisfaction in the time frame considered. Longer term impact may require further baking of data and/or prolonged usage of the new feature  
 
 
