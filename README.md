@@ -25,12 +25,12 @@ I have simulated product usage for customers (small business owners) who use our
 
 #### Methodology
 Following techniques are used in the analysis: 
-1. Performed **EDA and data transformation** for training models 
-2. EDA exposed the imbalance in the class and hence **SMOTE transformation** was used prior to training the model 
-3. Built supervised models like **Logistic Regression, Random Forest, LGBM, XGBoost and Neural Network** for flagging lookalike customers using propensity scores
-4. Performed **hyperparameter tuning** for the top 3 models and identified the best model with the best parameters 
-5. Observed **feature importance** of the best model to identify attributes that have most influence on feature adoption 
-6. Used **Causal Inference Techniques, namely, Propensity Score Matching (PSM)** to compare satisfaction scores of those that used the features to comparable customers who didn't use the feature 
+1. Performed <u>**EDA and data transformation**<u> for training models 
+2. EDA exposed the imbalance in the class and hence <u>**SMOTE transformation**<u> was used prior to training the model 
+3. Built supervised models like <u>**Logistic Regression, Random Forest, LGBM, XGBoost and Neural Network**<u> for flagging lookalike customers using propensity scores
+4. Performed <u>**hyperparameter tuning**<u> for the top 3 models and identified the best model with the best parameters 
+5. Observed <u>**feature importance**<u> of the best model to identify attributes that have most influence on feature adoption 
+6. Used <u>**Causal Inference Techniques, namely, Propensity Score Matching (PSM)** <u> to compare satisfaction scores of those that used the features to comparable customers who didn't use the feature 
 
 #### Results
 **Technical Results**
